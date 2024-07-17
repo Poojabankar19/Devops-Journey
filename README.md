@@ -1,2 +1,2 @@
-# Devops-Journey
-This will be my Devops journey
+# Devops
+This is my Devops Assignments
